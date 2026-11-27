@@ -45,3 +45,4 @@ Con **Claude** y **Claude Design**, en varias rondas:
 ## Créditos
 
 - Foto de Oasis: Raph_PH, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- Foto de Abbey Road: m.caimary, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), vía [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Abbey_Road_zebra_crossing,_London_2007-03-31.jpg).
