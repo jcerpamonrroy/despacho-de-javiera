@@ -34,20 +34,9 @@ Con **Claude** y **Claude Design**, en varias rondas:
 1. **Concepto:** una asesoría con cuatro departamentos que calzan con mi CV.
 2. **Ajuste a la oferta:** el requerimiento sale de la oferta publicada.
 3. **Feedback de UX:** estructura, textos y tarjetas revisados sección por sección.
-4. **CV definitivo:** más foco en Alegra Bot, calidad de agentes e IA.
-5. **Decidir qué quitar:** la primera versión tenía una «asesora virtual» por palabras clave. Respondía cosas que no correspondían, así que la quité: mejor no lanzar algo que no cumple el guardrail de calidad.
-
-Es la misma idea que El Súper de Javi y Roadtrip REVEL, mis portafolios anteriores, adaptada a otra empresa y otra metáfora.
-
-## Publicarlo con GitHub Pages
-
-1. En Claude Design, abre el lienzo y exporta el diseño como **HTML independiente** (Compartir › Exportar).
-2. Renombra el archivo a `index.html` y súbelo a la raíz de este repo.
-3. En el repo: **Settings › Pages › Build and deployment › Source: Deploy from a branch**, rama `main`, carpeta `/ (root)`.
-4. En uno o dos minutos estará en `https://jcerpamonrroy.github.io/despacho-de-javiera/`.
+4. **Decidir qué quitar:** la primera versión tenía una «asesora virtual» por palabras clave. Respondía cosas que no correspondían, así que la quité: mejor no lanzar algo que no cumple el guardrail de calidad.
 
 ## Créditos
 
 - Foto de Oasis: Raph_PH, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 - Foto de Abbey Road: _[completar autor y licencia]_.
-- Mapa de puntos y estructura heredados de El Súper de Javi y Roadtrip REVEL.
