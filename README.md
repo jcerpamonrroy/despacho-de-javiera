@@ -2,9 +2,15 @@
 
 Portafolio interactivo para un puesto de **Senior Product Manager en la vertical de contabilidad** de una empresa de software de asesoría (contable, fiscal, laboral y legal).
 
-🔗 **Ver el sitio:** https://jcerpamonrroy.github.io/despacho-de-javiera/
+🔗 **[Ver el sitio en vivo](https://jcerpamonrroy.github.io/despacho-de-javiera/)**
+
+[![Recepción de El Despacho de Javiera](capturas/recepcion.png)](https://jcerpamonrroy.github.io/despacho-de-javiera/)
 
 En vez de un CV más, el visitante entra a una asesoría. Su requerimiento se genera a partir de la oferta publicada, cada necesidad la atiende un departamento y, por el camino, va añadiendo «partidas» a su expediente. Al final se lleva la factura, sin coste.
+
+| Dpto. Fiscal: marco de métricas de un agente de IA | Dpto. Legal: Chile → Madrid |
+|---|---|
+| ![Modelo JCM con North Star, inputs y guardrails](capturas/fiscal.png) | ![Mapa con un avión de Santiago a Madrid](capturas/legal.png) |
 
 ## Por qué existe
 
